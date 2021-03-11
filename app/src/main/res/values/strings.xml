@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SocialMediaIntegration</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string name="facebook_app_id">229503845622616</string>
+    <string name="fb_login_protocol_scheme">fb229503845622616</string>
+    <string name="name">Name :</string>
+    <string name="fetch_here">Fetch Here</string>
+    <string name="smi">SMI</string>
+    <string name="facebook">facebook</string>
+    <string name="log_out">Log Out</string>
+    <string name="or">Or</string>
+    <string name="home_page">Home Page</string>
+    <string name="my_profile">My Profile</string>
+    <string name="log_in">Log In</string>
+
+</resources>
